@@ -12,7 +12,7 @@
 		mainMenuButtonText	: 'Menu',
 		subMenuButtonClass	: 'sub-menu-toggle',
 		subMenuButtonText	: 'Menu',
-		animSpeed			: 'fast',
+		animSpeed		: 'fast',
 		closeOnClickOutside	: true,
 		collapseOnClose		: true,
 		enableStickyNav		: true, 
